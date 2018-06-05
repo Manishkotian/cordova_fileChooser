@@ -1,6 +1,6 @@
 # Cordova File Chooser Plugin
 
-Plugin that returns the file path choosen from filemanager and also get filepath.
+Plugin that returns the file path choosen from filemanager and also get filesize.
 
 ## Using
 
